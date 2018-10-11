@@ -1,3 +1,15 @@
+# Welcome to Azure module for Microsoft Learn
+
+This repository contains the scripts referenced in the "Add a web server" unit of the "Introduction to Azure" module for[ Microsoft Learn](https://docs.microsoft.com/en-us/learn/). 
+
+The scripts are used to install a web server and configure a basic home page.
+
+Windows platforms (PowerShell script : [configure-iis.ps1](configure-iis.ps1)): 
+- This script installs IIS and configures a basic home page.
+
+Linux platforms (Bash script :
+[configure-nginx.sh](configure-nginx.sh)):
+- This script installs Nginx and configures a basic home page.
 
 # Contributing
 
